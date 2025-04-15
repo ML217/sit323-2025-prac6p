@@ -1,0 +1,24 @@
+{
+  "name": "arithmetic-microservice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node 4C.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "- Node.js\r - Github\r - Visual Studio Code",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ML217/sit323-2025-prac4c.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ML217/sit323-2025-prac4c/issues"
+  },
+  "homepage": "https://github.com/ML217/sit323-2025-prac4c#readme"
+}
